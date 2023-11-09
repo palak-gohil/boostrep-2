@@ -1,0 +1,141 @@
+ .ff {
+     font-family: 'Playfair Display sc', serif;
+ }
+
+ .ff2 {
+     font-family: 'Poppins', sans-serif;
+ }
+
+ .ff3 {
+     font-family: 'Playfair Display', serif;
+ }
+
+ .logo {
+     width: auto;
+     height: 100px;
+ }
+
+ .main1 {
+     background-image: url(asets/Rectangle\ 1.png);
+     background-size: cover;
+     background-position: center;
+     width: 100%;
+     height: 600px;
+ }
+
+ /* .main2 {
+     background-image: url(asets/bg-testimonial_180e7ff7-c58e-4f9f-bb55-c8e497018a63\ 1.jpg);
+     background-size: cover;
+     background-position: center;
+     width: 100%;
+     height: 600px;
+ }
+
+ .girl {
+     background-image: url(asets/1.jpg);
+     background-size: cover;
+     background-position: center;
+     height: 400px;
+     margin-top: 60px;
+     border-radius: 20px;
+     position: relative;
+     right: 0px;
+     bottom: 62px;
+ }
+
+ .girl:hover {
+     background-image: linear-gradient(180deg, rgba(247, 168, 8, 0.00) 0%, #F7A808 100%),
+         url(asets/1.jpg);
+     background-size: cover;
+     background-position: center;
+     height: 400px;
+     position: relative;
+     right: 20px;
+     bottom: 84px;
+
+ }
+
+ .as {
+     border: 2px solid #F7A808;
+     border-radius: 20px;
+     height: 400px;
+     margin-top: 100px;
+ }
+
+ .girl2 {
+     background-image: url(asets/Rectangle\ 7\ \(1\).png);
+     background-size: cover;
+     background-position: center;
+     height: 400px;
+     width: auto;
+     margin-top: 60px;
+     border-radius: 20px;
+     position: relative;
+     right: 0px;
+     bottom: 60px;
+ }
+
+ .girl2:hover {
+     background-image: linear-gradient(180deg, rgba(247, 168, 8, 0.00) 0%, #F7A808 100%),
+         url(asets/Rectangle\ 7\ \(1\).png);
+     background-size: cover;
+     background-position: center;
+     height: 430px;
+     position: relative;
+     right: 20px;
+     bottom: 84px;
+
+ } */
+
+
+ .main3 {
+     background-color: #F9F9F9;
+     height: auto;
+     width: 100%;
+ }
+
+ .pot {
+     height: 190px;
+     width: 100%;
+ }
+
+ .jewellrey {
+     height: 200px;
+     width: 100%;
+     object-fit: fill;
+ }
+
+ .select {
+     height: 100px;
+ }
+
+ .main8 {
+     background-image: url(asets/bg-testimonial_180e7ff7-c58e-4f9f-bb55-c8e497018a63\ 1.jpg);
+     background-position: center;
+     background-size: cover;
+     width: auto;
+     height: auto;
+ }
+
+ .fbg {
+     background-image: url(asets/Rectangle\ 23.png);
+     background-position: center;
+     background-size: cover;
+     width: auto;
+     height: 380px;
+ }
+
+ .sbg {
+     background-image: url(asets/Rectangle\ 24.png);
+     background-position: center;
+     background-size: contain;
+     background-repeat: no-repeat;
+     width: auto;
+     height: 400px;
+     position: relative;
+     top: 100px;
+ }
+
+ .about {
+     margin-top: 50px;
+ }
